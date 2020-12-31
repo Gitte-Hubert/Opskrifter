@@ -13,8 +13,7 @@
 ### Fremgangsmåde
 1. Bland alle ingredienser, ælt grundigt til dejen er stærk.
 2. Lad hvile tildækket natten over i køleskab (eller brug mere gær, hvis den skal bruges samme dag).
-3. Ca. 2 timer før dejens skal bruges, tages den ud af køleskabet og deles i 4. Hver dejklump formes til en kugle og hæver tildækket i smurt beholder.
-wip/Pizza.md
+3. Ca. 2 timer før dejens skal bruges, tages den ud af køleskabet og deles i 4. Hver dejklump formes til en kugle og hæver tildækket i oliesmurt beholder.
 
 ## Varianter
 Til røde pizzaer bruges ca. 65 g tomatsauce pr. stk.
