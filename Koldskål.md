@@ -13,4 +13,4 @@
 3. Lad hvile mindst 1 time i køleskab før servering.
 
 ## Holdbarhed
-3 dage.
+3 dage i køleskab. Den skiller, men piskes bare igennem igen.

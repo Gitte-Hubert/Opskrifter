@@ -1,7 +1,7 @@
 # Carbonara
 
 ## Ingredienser
-- 10 g salt pr. liter vand
+- 10 g salt pr. liter kogevand
 - 165 g spaghetti pr. pers (stor portion)
 - 0.5 pk bacon pr. pers
 - 1 helt æg + 1 blomme pr. pers
